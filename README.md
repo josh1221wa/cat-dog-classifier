@@ -10,9 +10,13 @@ This is a very simple image processing project, wherin the model just scans ever
 
 ## Datasets Used
 
+The dataset used in this notebook is a combination of 2 datasets from Kaggle. The datasets are as follows:
+
 Cats - https://www.kaggle.com/datasets/crawford/cat-dataset
 
 Dogs - https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset
+
+You can get the combined dataset from the following link: https://www.mediafire.com/file/qnn43g4htau8psf/dataset.zip/file
 
 ## Environment Setup
 
@@ -47,6 +51,7 @@ conda env create -f environment.yml
 ```
 
 4. Activate the environment.
+5. Get the dataset from https://www.mediafire.com/file/qnn43g4htau8psf/dataset.zip/file
 5. Unzip the data files and place them in the root directory.
 
 ## Steps Followed
